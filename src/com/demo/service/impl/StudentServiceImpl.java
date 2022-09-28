@@ -21,4 +21,10 @@ public class StudentServiceImpl implements StudentService {
 		return students;
 	}
 
+	@Override
+	public Student getStudentById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
